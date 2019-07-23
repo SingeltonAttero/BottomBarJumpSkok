@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomBarJumpSkok</string>
+    <string name="person">person</string>
+    <string name="assignment">assignment</string>
+    <string name="favorite">favorite</string>
+    <string name="location">location</string>
+</resources>
